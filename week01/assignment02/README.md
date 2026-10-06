@@ -2,7 +2,7 @@
 
 [返回本週作業](../README.md) · [返回作業總覽](../../README.md)
 
-狀態：已有程式，執行驗證與其他資料待補。
+狀態：程式編譯通過，規格與原理說明已整理；GUI 驗證、題目／執行／AI 對話截圖及個人心得待補，目前不可視為完整繳交。
 
 ## 題目摘要
 
@@ -16,10 +16,16 @@
 
 摘要依已提供的骰子題目整理；原始題目截圖仍待補。
 
+## 本次範圍
+
+只整理骰子作業與其完成狀態；保留 src/DiceSimulator.java 原始內容，不新增功能、不修改其他作業。
+
 ## 檔案說明
 
 - [src/DiceSimulator.java](src/DiceSimulator.java)：原有骰子程式，僅搬移位置。
 - [screenshots/README.md](screenshots/README.md)：截圖種類與命名方式。
+- [TESTING.md](TESTING.md)：實際測試結果與 GUI 驗收步驟。
+- [EXPLANATION.md](EXPLANATION.md)：原理、元件分工及設計取捨。
 - [Reflection.md](Reflection.md)：個人心得模板，待本人填寫。
 
 ## 編譯與執行
@@ -38,6 +44,8 @@ java -cp out DiceSimulator
 ## 繳交檢查清單
 
 - [x] 程式碼已加入
+- [x] UTF-8 編譯通過
+- [x] 測試紀錄與原理說明已加入
 - [ ] 題目截圖已加入
 - [ ] 已實際執行並確認符合題目
 - [ ] 執行結果截圖已加入
