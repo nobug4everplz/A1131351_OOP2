@@ -2,7 +2,7 @@
 
 [返回本週作業](../README.md) · [返回作業總覽](../../README.md)
 
-狀態：程式編譯通過，規格與原理說明已整理；GUI 驗證、題目／執行／AI 對話截圖及個人心得待補，目前不可視為完整繳交。
+狀態：編譯通過，四張執行截圖與 Markdown AI 對話紀錄已加入；原始題目圖、個人心得及部分動態驗證待補。
 
 ## 題目摘要
 
@@ -26,6 +26,7 @@
 - [screenshots/README.md](screenshots/README.md)：截圖種類與命名方式。
 - [TESTING.md](TESTING.md)：實際測試結果與 GUI 驗收步驟。
 - [EXPLANATION.md](EXPLANATION.md)：原理、元件分工及設計取捨。
+- [AI-CONVERSATION.md](AI-CONVERSATION.md)：經使用者同意取代 AI 對話截圖的整理紀錄。
 - [Reflection.md](Reflection.md)：個人心得模板，待本人填寫。
 
 ## 編譯與執行
@@ -48,11 +49,13 @@ java -cp out DiceSimulator
 - [x] 測試紀錄與原理說明已加入
 - [ ] 題目截圖已加入
 - [ ] 已實際執行並確認符合題目
-- [ ] 執行結果截圖已加入
-- [ ] AI 對話截圖已加入
+- [x] 執行結果截圖已加入（初始、黑色、綠色、紅色）
+- [x] AI 對話紀錄已加入（Markdown）
 - [ ] 個人 Reflection 已填寫並確認
 
-## 執行驗證項目（待驗證）
+## 執行驗證項目
+
+截圖已確認初始狀態、黑／綠／紅三種顏色與所示平均值。以下為完整驗收要求，尚未直接驗證的細項見 [TESTING.md](TESTING.md)。
 
 - 開啟時視窗大小、位置、標題與初始統計正確，關閉後程式結束。
 - 按下按鈕後點數介於 1～6，次數每次加一，總和與平均值正確。
