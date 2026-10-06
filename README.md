@@ -6,7 +6,7 @@
 
 | 週次 | 作業 | 題目 | 狀態 |
 | --- | --- | --- | --- |
-| [Week 01](week01/README.md) | [Assignment 01](week01/assignment01/README.md) | 登入視窗 | 資料待補 |
+| [Week 01](week01/README.md) | [Assignment 01](week01/assignment01/README.md) | 登入視窗 | 編譯與基本功能檢查通過，執行截圖已加入；個人心得待補 |
 | [Week 01](week01/README.md) | [Assignment 02](week01/assignment02/README.md) | 骰子模擬器 | 編譯與截圖樣本檢查通過；個人心得待補 |
 | [Week 02](week02/README.md) | [Assignment 01](week02/assignment01/README.md) | 單位換算器 | 資料待補 |
 
