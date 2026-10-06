@@ -25,6 +25,6 @@
 
 ![紅色 1](result-04.png)
 
-原始題目截圖仍待提供；AI 對話已依使用者同意改存為 [Markdown 紀錄](../AI-CONVERSATION.md)，不再要求 AI 對話圖片。
+依使用者指示，原始題目截圖不需要；AI 對話已依使用者同意改存為 [Markdown 紀錄](../AI-CONVERSATION.md)，不再要求 AI 對話圖片。
 
 [測試紀錄](../TESTING.md) · [返回作業](../README.md)
