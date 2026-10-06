@@ -16,5 +16,6 @@
 
 - `README.md`：題目摘要、執行方式與繳交檢查清單。
 - `src/`：Java 原始碼；空目錄以 `.gitkeep` 保留，加入程式後可移除。
-- `screenshots/`：題目、執行結果與 AI 對話截圖，命名方式見各目錄說明。
+- `screenshots/`：執行結果截圖；題目原圖選填，僅特別要求時收集。
+- `AI-CONVERSATION.md`：AI 對話紀錄，可用 Markdown 重點整理取代對話截圖。
 - `Reflection.md`：由本人填寫的學習心得。

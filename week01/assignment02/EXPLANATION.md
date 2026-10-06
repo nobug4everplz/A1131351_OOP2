@@ -49,7 +49,7 @@ main → 在 Swing 事件執行緒建立視窗 → 等待操作
 
 ## 執行與理解檢查
 
-依 [README](README.md) 的指令編譯與執行；實際結果和待驗證清單見 [TESTING.md](TESTING.md)。
+依 [README](README.md) 的指令編譯與執行；實際結果與證據限制（非待辦）見 [TESTING.md](TESTING.md)。
 
 閱讀後可以試著回答：
 
