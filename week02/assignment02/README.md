@@ -2,7 +2,7 @@
 
 [返回本週作業](../README.md) · [返回作業總覽](../../README.md)
 
-狀態：程式已完成，編譯與功能檢查通過；真實視窗截圖已加入，個人心得待補。
+狀態：程式已完成，編譯與功能檢查通過；真實視窗截圖已加入；Reflection 為 AI 草稿，待本人修改確認。
 
 ## 題目摘要
 
@@ -21,7 +21,7 @@
 - [src/DiceSimulator2.java](src/DiceSimulator2.java)：視窗、按鈕事件、亂數與統計。
 - [src/DicePanel.java](src/DicePanel.java)：骰子外框與圓點繪製。
 - [TESTING.md](TESTING.md)、[EXPLANATION.md](EXPLANATION.md)、[AI-CONVERSATION.md](AI-CONVERSATION.md)、[screenshots/README.md](screenshots/README.md)。
-- [Reflection.md](Reflection.md)：個人心得模板，待本人填寫。
+- [Reflection.md](Reflection.md)：AI 草稿，待本人修改確認。
 
 ## 編譯與執行
 
@@ -41,4 +41,4 @@ java -cp out DiceSimulator2
 - [x] 功能檢查通過（300 次按鈕事件）
 - [x] 測試紀錄、原理說明、AI 對話紀錄已加入
 - [x] 執行結果截圖已加入（真實視窗）
-- [ ] 個人 Reflection 已填寫並確認
+- [ ] 個人 Reflection 已確認（AI 草稿已備，待本人修改確認）
