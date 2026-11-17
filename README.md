@@ -11,7 +11,6 @@
 | [Week 02](week02/README.md) | [Assignment 01](week02/assignment01/README.md) | 單位換算器 | 編譯與功能檢查通過；截圖、心得待補 |
 | [Week 02](week02/README.md) | [Assignment 02](week02/assignment02/README.md) | 骰子模擬器 2 | 編譯與功能檢查通過；截圖、心得待補 |
 | [Week 03](week03/README.md) | [Assignment 01](week03/assignment01/README.md) | 我的小房子 | 編譯與繪圖檢查通過；截圖、心得待補 |
-| [Week 02](week02/README.md) | [Assignment 01](week02/assignment01/README.md) | 單位換算器 | 資料待補 |
 
 ## 資料放置方式
 
