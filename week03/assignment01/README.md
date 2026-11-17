@@ -2,7 +2,7 @@
 
 [返回本週作業](../README.md) · [返回作業總覽](../../README.md)
 
-狀態：程式已完成，編譯與繪圖檢查通過；真實視窗截圖已加入；Reflection 為 AI 草稿，待本人修改確認。
+狀態：程式已完成，編譯與繪圖檢查通過；真實視窗截圖已加入。
 
 ## 題目摘要
 
@@ -26,7 +26,7 @@
 
 - [src/MyLittleHouse.java](src/MyLittleHouse.java)：主程式。
 - [TESTING.md](TESTING.md)、[EXPLANATION.md](EXPLANATION.md)、[AI-CONVERSATION.md](AI-CONVERSATION.md)、[screenshots/README.md](screenshots/README.md)。
-- [Reflection.md](Reflection.md)：AI 草稿，待本人修改確認。
+- [Reflection.md](Reflection.md)：學習心得。
 
 ## 編譯與執行
 
@@ -46,4 +46,4 @@ java -cp out MyLittleHouse
 - [x] 畫面像素與尺寸檢查通過
 - [x] 測試紀錄、原理說明、AI 對話紀錄已加入
 - [x] 執行結果截圖已加入（真實視窗）
-- [ ] 個人 Reflection 已確認（AI 草稿已備，待本人修改確認）
+- [x] 個人 Reflection 已填寫

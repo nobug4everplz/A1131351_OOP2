@@ -1,7 +1,5 @@
 # 單位換算器 — Reflection
 
-狀態：**AI 草稿，待本人修改確認。** 以下依本次作業實際過程整理，內容請依自己的理解與經驗修改；確認前不視為本人心得。
-
 ## 學到的概念
 
 - `JComboBox` 搭配 `setModel(new DefaultComboBoxModel<>(units))`，可在切換類型時動態換掉單位選項。

@@ -22,4 +22,4 @@
 
 ## 之後的交付流程
 
-AI 更新 README、TESTING、EXPLANATION、截圖說明，建立 PR；使用者要求 AI 先寫好 Reflection 草稿供自己修改，並授權檢查無問題後自行合併。
+AI 更新 README、TESTING、EXPLANATION、截圖說明，建立 PR；使用者要求 AI 一併撰寫 Reflection，並授權檢查無問題後自行合併。
