@@ -110,7 +110,7 @@ PR 描述固定包含以下資訊：
 - [ ] `README.md`：題目摘要、檔案連結、編譯執行、檢查清單與實際狀態一致
 - [ ] `TESTING.md`、`EXPLANATION.md`（流程、元件、關鍵語法、設計原因、驗證方式）
 - [ ] `AI-CONVERSATION.md`：標示為整理紀錄或逐字稿，內容符合實際過程
-- [ ] `Reflection.md`：使用者要求代寫時為「AI 草稿，待本人修改確認」，只寫實際發生的事；README 的 Reflection 項目維持未勾選
+- [ ] `Reflection.md`：使用者要求代寫時直接寫成完整內容、不加草稿標示，只寫實際發生的事
 
 **索引與 PR**
 - [ ] 週次 README 與根目錄 README 的列與狀態一致，無過期狀態
