@@ -20,7 +20,10 @@
 | 結果欄 | 不可編輯 | editable=false | 通過 |
 | 關閉設定 | EXIT_ON_CLOSE | true | 通過 |
 
+## 真實視窗截圖
+
+2026-11-17 在 macOS 實際啟動程式並以 `Robot` 擷取視窗，截圖見 [screenshots/README.md](screenshots/README.md)。視窗標題、尺寸與版面與預期相符；長度與溫度換算結果顯示正確。
+
 ## 未驗證
 
 - 空白／非數字輸入的錯誤對話框：程式碼會先檢查並 return，但對話框未實際點擊觀察。
-- 真實視窗的截圖：尚未加入。
