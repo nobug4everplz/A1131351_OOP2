@@ -24,7 +24,7 @@
 - [EXPLANATION.md](EXPLANATION.md)：原理與設計說明。
 - [AI-CONVERSATION.md](AI-CONVERSATION.md)：AI 協作重點整理。
 - [screenshots/README.md](screenshots/README.md)：截圖說明。
-- [Reflection.md](Reflection.md)：個人心得模板，待本人填寫。
+- [Reflection.md](Reflection.md)：AI 草稿，待本人修改確認。
 
 ## 編譯與執行
 

@@ -26,7 +26,7 @@
 
 - [src/MyLittleHouse.java](src/MyLittleHouse.java)：主程式。
 - [TESTING.md](TESTING.md)、[EXPLANATION.md](EXPLANATION.md)、[AI-CONVERSATION.md](AI-CONVERSATION.md)、[screenshots/README.md](screenshots/README.md)。
-- [Reflection.md](Reflection.md)：個人心得模板，待本人填寫。
+- [Reflection.md](Reflection.md)：AI 草稿，待本人修改確認。
 
 ## 編譯與執行
 
